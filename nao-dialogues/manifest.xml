@@ -10,7 +10,11 @@
   <language>en_US</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="rur-e94-e99-helena-timetrig">
+  <behaviorContent path="rur-e94-e95-helena-timetrig">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="rur-e96-e99-helena-timetrig">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>

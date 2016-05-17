@@ -2,7 +2,8 @@
 <Package name="nao-dialogues" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
-        <BehaviorDescription name="behavior" src="rur-e94-e99-helena-timetrig" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="rur-e94-e95-helena-timetrig" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="rur-e96-e99-helena-timetrig" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>

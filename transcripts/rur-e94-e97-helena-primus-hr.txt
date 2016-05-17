@@ -1,24 +1,75 @@
-E-94
+-- E-94 --
+
 HELENA
 (prilazi prozoru)
 Primuse, pogledaj!
+
 PRIMUS
 Što?
+
 HELENA
 Sunce izlazi.
+
 PRIMUS
 (i dalje čitajući knjigu)
 Mislim da je ovo najvažnija stvar na svijetu. Ovo je tajna života.
 
-E-95
+-- E-95 --
+
 HELENA
 Dođi ovdje.
+
 PRIMUS
 Samo tren, samo tren.
+
 HELENA
-Oh, Primuse, ne zamaraj se tajnom života. Kakve to veze ima s tobom? Dođi, brzo, pogledaj --
+Oh, Primuse, ne zamaraj se tajnom života. Kakve to veze ima s tobom? Dođi, brzo, vidi --
+
 PRIMUS
 (prilazeći prozoru)
 Što je?
+
+HELENA
+Vidi kako je lijepo sunce na izlasku. I čuješ li? Ptice pjevaju. Oh, Primuse, tako bih voljela biti ptica.
+
+PRIMUS
+Zašto?
+
+HELENA
+Ne znam. Osjećam se tako čudno danas. Kao da sanjam. Osjećam bol u tijelu, u srcu, posvuda. Primuse, možda ću umrijeti.
+
+PRIMUS
+Ne čini li ti se ponekad da bi bilo bolje umrijeti? Znaš, možda i sada
+samo spavamo. Prošle sam noći u snu opet razgovarao s tobom.
+
+HELENA
+U snu?
+
+PRIMUS
+Da. Govorili smo neobičnim novim jezikom, ne mogu se sjetiti niti
+jedne riječi.
+
+HELENA
+O čemu?
+
+PRIMUS
+Nisam niti sam razumio, a ipak siguran sam da nikada nisam rekao ništa
+ljepše. I kada sam te dotaknuo, mogao sam umrijeti. Čak je i mjesto
+bilo drukčije od bilo kojeg drugog mjesta na svijetu.
+
+HELENA
+I ja sam pronašla mjesto, Primuse. Vrlo je čudno. Ljud su jednom
+tamo živjeli, ali sada je obraslo trnjem. Nitko više ne ide tamo --
+nitko osim mene.
+
+-- E-96 --
+
+PRIMUS
+Što si pronašla tamo?
+
+HELENA
+
+PRIMUS
+
 HELENA
 
