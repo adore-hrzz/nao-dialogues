@@ -199,7 +199,7 @@ class MyClass(GeneratedClass):
                                                 </Timeline>
                                                 <Resource name="Audio player" type="Lock" timeout="0" />
                                             </Box>
-                                            <Box name="Delay (1)" id="2" localization="8" tooltip="Wait a moment before triggering the output. &#x0A;Can be stopped anytime. &#x0A;Multiple inputs will trigger multiple outputs." x="633" y="54">
+                                            <Box name="Mislim da..." id="2" localization="8" tooltip="Wait a moment before triggering the output. &#x0A;Can be stopped anytime. &#x0A;Multiple inputs will trigger multiple outputs." x="633" y="54">
                                                 <bitmap>media/images/box/wait.png</bitmap>
                                                 <script language="4">
                                                     <content>
@@ -244,7 +244,7 @@ class MyClass(GeneratedClass):
                                                 <Input name="onStart" type="1" type_size="1" nature="2" inner="0" tooltip="Start the Delay box with the configured timeout value." id="2" />
                                                 <Input name="onStop" type="1" type_size="1" nature="3" inner="0" tooltip="Stop the wait and stimulate the output." id="3" />
                                                 <Output name="timerOutput" type="1" type_size="1" nature="1" inner="0" tooltip="Send a bang once delay set in parameters is elapsed, or if the box is stopped and the appropriate parameter is set." id="4" />
-                                                <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="2" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
+                                                <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="3" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                                                 <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently delaying at least one signal and cancelled, output will be stimulated." id="6" />
                                             </Box>
                                             <Box name="Play Sound (1)" id="3" localization="8" tooltip="Play a sound file. Select the file in parameters. The format of the file can be wav or ogg (on virtual robot) and also mp3 (on a real robot).&#x0A;&#x0A;Note: There can be some delay to play ogg or mp3 (on a robot) files. We advise you to use wav if&#x0A;you want a fast play of the file." x="478" y="65">
@@ -1231,7 +1231,7 @@ class MyClass(GeneratedClass):
                                                 </Timeline>
                                                 <Resource name="Audio player" type="Lock" timeout="0" />
                                             </Box>
-                                            <Box name="Delay (3)" id="6" localization="8" tooltip="Wait a moment before triggering the output. &#x0A;Can be stopped anytime. &#x0A;Multiple inputs will trigger multiple outputs." x="848" y="335">
+                                            <Box name="Ne cini li ti se ponekad" id="6" localization="8" tooltip="Wait a moment before triggering the output. &#x0A;Can be stopped anytime. &#x0A;Multiple inputs will trigger multiple outputs." x="848" y="335">
                                                 <bitmap>media/images/box/wait.png</bitmap>
                                                 <script language="4">
                                                     <content>
@@ -1276,7 +1276,7 @@ class MyClass(GeneratedClass):
                                                 <Input name="onStart" type="1" type_size="1" nature="2" inner="0" tooltip="Start the Delay box with the configured timeout value." id="2" />
                                                 <Input name="onStop" type="1" type_size="1" nature="3" inner="0" tooltip="Stop the wait and stimulate the output." id="3" />
                                                 <Output name="timerOutput" type="1" type_size="1" nature="1" inner="0" tooltip="Send a bang once delay set in parameters is elapsed, or if the box is stopped and the appropriate parameter is set." id="4" />
-                                                <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="5" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
+                                                <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="7" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                                                 <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently delaying at least one signal and cancelled, output will be stimulated." id="6" />
                                             </Box>
                                             <Box name="Osjecam se cudno" id="7" localization="8" tooltip="Play a sound file. Select the file in parameters. The format of the file can be wav or ogg (on virtual robot) and also mp3 (on a real robot).&#x0A;&#x0A;Note: There can be some delay to play ogg or mp3 (on a robot) files. We advise you to use wav if&#x0A;you want a fast play of the file." x="533" y="251">
@@ -1400,7 +1400,7 @@ class MyClass(GeneratedClass):
                                                 </Timeline>
                                                 <Resource name="Audio player" type="Lock" timeout="0" />
                                             </Box>
-                                            <Box name="Delay (4)" id="8" localization="8" tooltip="Wait a moment before triggering the output. &#x0A;Can be stopped anytime. &#x0A;Multiple inputs will trigger multiple outputs." x="114" y="674">
+                                            <Box name="Govorili smo" id="8" localization="8" tooltip="Wait a moment before triggering the output. &#x0A;Can be stopped anytime. &#x0A;Multiple inputs will trigger multiple outputs." x="114" y="674">
                                                 <bitmap>media/images/box/wait.png</bitmap>
                                                 <script language="4">
                                                     <content>
@@ -1445,7 +1445,7 @@ class MyClass(GeneratedClass):
                                                 <Input name="onStart" type="1" type_size="1" nature="2" inner="0" tooltip="Start the Delay box with the configured timeout value." id="2" />
                                                 <Input name="onStop" type="1" type_size="1" nature="3" inner="0" tooltip="Stop the wait and stimulate the output." id="3" />
                                                 <Output name="timerOutput" type="1" type_size="1" nature="1" inner="0" tooltip="Send a bang once delay set in parameters is elapsed, or if the box is stopped and the appropriate parameter is set." id="4" />
-                                                <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="3" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
+                                                <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="4" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                                                 <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently delaying at least one signal and cancelled, output will be stimulated." id="6" />
                                             </Box>
                                             <Box name="Play Sound (4)" id="9" localization="8" tooltip="Play a sound file. Select the file in parameters. The format of the file can be wav or ogg (on virtual robot) and also mp3 (on a real robot).&#x0A;&#x0A;Note: There can be some delay to play ogg or mp3 (on a robot) files. We advise you to use wav if&#x0A;you want a fast play of the file." x="1053" y="328">
@@ -1569,7 +1569,7 @@ class MyClass(GeneratedClass):
                                                 </Timeline>
                                                 <Resource name="Audio player" type="Lock" timeout="0" />
                                             </Box>
-                                            <Box name="Delay (5)" id="10" localization="8" tooltip="Wait a moment before triggering the output. &#x0A;Can be stopped anytime. &#x0A;Multiple inputs will trigger multiple outputs." x="528" y="759">
+                                            <Box name="Nisam niti sam razumio" id="10" localization="8" tooltip="Wait a moment before triggering the output. &#x0A;Can be stopped anytime. &#x0A;Multiple inputs will trigger multiple outputs." x="528" y="759">
                                                 <bitmap>media/images/box/wait.png</bitmap>
                                                 <script language="4">
                                                     <content>
@@ -1614,7 +1614,7 @@ class MyClass(GeneratedClass):
                                                 <Input name="onStart" type="1" type_size="1" nature="2" inner="0" tooltip="Start the Delay box with the configured timeout value." id="2" />
                                                 <Input name="onStop" type="1" type_size="1" nature="3" inner="0" tooltip="Stop the wait and stimulate the output." id="3" />
                                                 <Output name="timerOutput" type="1" type_size="1" nature="1" inner="0" tooltip="Send a bang once delay set in parameters is elapsed, or if the box is stopped and the appropriate parameter is set." id="4" />
-                                                <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="7" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
+                                                <Parameter name="Timeout (s)" inherits_from_parent="0" content_type="2" value="10" default_value="1" min="0" max="5000" tooltip="Duration the box waits before stimulating the output." id="5" />
                                                 <Parameter name="Trigger timerOutput if cancelled" inherits_from_parent="0" content_type="0" value="0" default_value="1" tooltip="If the box is currently delaying at least one signal and cancelled, output will be stimulated." id="6" />
                                             </Box>
                                             <Box name="O cemu?" id="11" localization="8" tooltip="Play a sound file. Select the file in parameters. The format of the file can be wav or ogg (on virtual robot) and also mp3 (on a real robot).&#x0A;&#x0A;Note: There can be some delay to play ogg or mp3 (on a robot) files. We advise you to use wav if&#x0A;you want a fast play of the file." x="344" y="756">
