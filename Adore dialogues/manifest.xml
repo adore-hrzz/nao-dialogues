@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="nao-dialogues-e22bf7">
+<package uuid="adore-dialogues-e22bf7">
  <names>
-  <name lang="en_US">nao-dialogues</name>
+  <name lang="en_US">Adore dialogues</name>
  </names>
  <supportedLanguages>
   <language>en_US</language>

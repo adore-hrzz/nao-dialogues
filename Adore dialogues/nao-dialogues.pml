@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Package name="nao-dialogues" format_version="4">
+<Package name="Nao dialogues" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="rur-e94-e95-helena-timetrig" xar="behavior.xar" />
