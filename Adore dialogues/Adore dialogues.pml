@@ -31,7 +31,10 @@
         <File name="98Helena4_1" src="rur-e94-e99-helena/98Helena4_1.wav" />
         <File name="98Helena4_2" src="rur-e94-e99-helena/98Helena4_2.wav" />
         <File name="99Helena1" src="rur-e94-e99-helena/99Helena1.wav" />
+        <File name="icon" src="icon.png" />
     </Resources>
     <Topics />
-    <IgnoredPaths />
+    <IgnoredPaths>
+        <Path src="icon.png" />
+    </IgnoredPaths>
 </Package>
